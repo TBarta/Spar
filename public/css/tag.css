@@ -1,0 +1,16 @@
+.tag, .reverse-tag {
+    border: 3px solid black;
+    margin: 10px;
+    text-align: center;
+    line-height: inherit;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: white;
+    outline: none;
+}
+
+.invert {
+    background-color: black;
+    color: white;
+}
+
